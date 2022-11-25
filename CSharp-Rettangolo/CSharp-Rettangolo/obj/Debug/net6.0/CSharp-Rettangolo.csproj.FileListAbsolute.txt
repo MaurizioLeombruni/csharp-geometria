@@ -1,0 +1,15 @@
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\bin\Debug\net6.0\CSharp-Rettangolo.exe
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\bin\Debug\net6.0\CSharp-Rettangolo.deps.json
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\bin\Debug\net6.0\CSharp-Rettangolo.runtimeconfig.json
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\bin\Debug\net6.0\CSharp-Rettangolo.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\bin\Debug\net6.0\CSharp-Rettangolo.pdb
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\CSharp-Rettangolo.csproj.AssemblyReference.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\CSharp-Rettangolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\CSharp-Rettangolo.AssemblyInfoInputs.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\CSharp-Rettangolo.AssemblyInfo.cs
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\CSharp-Rettangolo.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\CSharp-Rettangolo.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\refint\CSharp-Rettangolo.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\CSharp-Rettangolo.pdb
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\CSharp-Rettangolo.genruntimeconfig.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-geometria\CSharp-Rettangolo\CSharp-Rettangolo\obj\Debug\net6.0\ref\CSharp-Rettangolo.dll
