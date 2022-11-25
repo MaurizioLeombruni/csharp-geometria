@@ -28,7 +28,7 @@ namespace CSharp_Geometria
             {
                 if (i < baseRettangolo)
                 {
-                    Console.Write("--");
+                    Console.Write("--\t");
                 }
                 else
                 {
@@ -40,11 +40,11 @@ namespace CSharp_Geometria
         public void DisegnaLatoRettangolo()
         {
             Console.Write("|");
-            for (int i = 0; i == baseRettangolo; i++)
+            for (int i = 0; i <= baseRettangolo; i++)
             {
                 if (i < baseRettangolo)
                 {
-                    Console.Write("  ");
+                    Console.Write("\t");
                 }
                 else
                 {
@@ -57,7 +57,7 @@ namespace CSharp_Geometria
         {
             DisegnaBaseRettangolo();
 
-            for (int i = 0; i == altezzaRettangolo; i++)
+            for (int i = 0; i <= altezzaRettangolo; i++)
             {
                 DisegnaLatoRettangolo();
             }
