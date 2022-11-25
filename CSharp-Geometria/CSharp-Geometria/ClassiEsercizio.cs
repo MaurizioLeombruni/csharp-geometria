@@ -80,10 +80,10 @@ namespace CSharp_Geometria
 
             Console.WriteLine("-- Dettagli del rettangolo: ");
             Console.WriteLine("Nome del rettangolo: " + nomeRettangolo);
-            Console.WriteLine("Base: " + baseRettangolo);
-            Console.WriteLine("Altezza: " + altezzaRettangolo);
-            Console.WriteLine("Area: " + rettangoloArea);
-            Console.WriteLine("Perimetro: " + rettangoloPerim);
+            Console.WriteLine("Base: " + baseRettangolo + "cm");
+            Console.WriteLine("Altezza: " + altezzaRettangolo + "cm");
+            Console.WriteLine("Area: " + rettangoloArea + "cm2");
+            Console.WriteLine("Perimetro: " + rettangoloPerim + "cm");
         }
     }
 }
